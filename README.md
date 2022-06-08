@@ -27,4 +27,9 @@
 |디지털리터러시2|엑셀 & 워드 자격증 취득하기|2|
 |소프트웨어세미나1|최신 소프트웨어트랜드 배우기|1|
 
-github address : [
+
+github address : [DDONGHUNI][github]
+
+[github]:http://github.com/DDONGHUNI
+
+
